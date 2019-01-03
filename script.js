@@ -44,3 +44,6 @@ function changeStyle(){
 }
 
 
+document.getElementById("modePsy").addEventListener("click", function(){
+	changeStyle();
+})
