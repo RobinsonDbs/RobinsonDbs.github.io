@@ -7,9 +7,9 @@ function displayPopup(){
 	}
 }
 
-// setTimeout(function(){
-// 	displayPopup();
-// }, 10000);
+setTimeout(function(){
+	displayPopup();
+}, 10000);
 
 function changeStyle(){
 	//Je récupère tous les paragraphe de la page html
